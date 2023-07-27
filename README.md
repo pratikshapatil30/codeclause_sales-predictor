@@ -1,2 +1,2 @@
 # codeclause_sales-predictor
- https://pratikshapatil30.github.io/codeclause_sales-predictor/
+https://github.com/pratikshapatil30/codeclause_sales-predictor
